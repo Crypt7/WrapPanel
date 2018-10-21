@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WrapPanel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="MainWindow" Height="350" Width="525">
+    <WrapPanel Orientation="Vertical">
+        <Rectangle Fill="Red" Width="50" Height="50"/>
+        <Rectangle Fill="Orange" Width="50" Height="50"/>
+        <Rectangle Fill="Yellow" Width="50" Height="50"/>
+        <Rectangle Fill="Green" Width="50" Height="50"/>
+        <Rectangle Fill="Blue" Width="50" Height="50"/>
+        <Rectangle Fill="DarkBlue" Width="50" Height="50"/>
+        <Rectangle Fill="BlueViolet" Width="50" Height="50"/>
+        <Rectangle Fill="Red" Width="50" Height="50"/>
+        <Rectangle Fill="Orange" Width="50" Height="50"/>
+        <Rectangle Fill="Yellow" Width="50" Height="50"/>
+        <Rectangle Fill="Green" Width="50" Height="50"/>
+        <Rectangle Fill="Blue" Width="50" Height="50"/>
+        <Rectangle Fill="DarkBlue" Width="50" Height="50"/>
+        <Rectangle Fill="BlueViolet" Width="50" Height="50"/>
+        <Rectangle Fill="Red" Width="50" Height="50"/>
+        <Rectangle Fill="Orange" Width="50" Height="50"/>
+        <Rectangle Fill="Yellow" Width="50" Height="50"/>
+        <Rectangle Fill="Green" Width="50" Height="50"/>
+        <Rectangle Fill="Blue" Width="50" Height="50"/>
+        <Rectangle Fill="DarkBlue" Width="50" Height="50"/>
+        <Rectangle Fill="BlueViolet" Width="50" Height="50"/>
+    </WrapPanel>
 </Window>
